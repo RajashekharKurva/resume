@@ -14,6 +14,9 @@
  width:10%;
  height:10%;
 }
+.education_details:hover{
+color:white;
+}
 
 .hdd{
   color:  #e40017;
